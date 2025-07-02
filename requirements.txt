@@ -4,5 +4,6 @@ notebook
 openai
 pandas
 python-dotenv
+qdrant-client[fastembed]>=1.14.2
 scikit-learn
 tqdm
